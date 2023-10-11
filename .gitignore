@@ -1,5 +1,5 @@
 cmake-build-debug/
-CMakeList.txt
+*.txt
 .idea/
 *.iml
 *.xml
